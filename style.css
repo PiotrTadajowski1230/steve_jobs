@@ -1,0 +1,26 @@
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    background-color: blueviolet;
+}
+p{
+    color: aqua;
+}
+
+h3{
+ background-color: yellowgreen;
+}
+h1{
+    background-color: teal;
+}
+img{
+    height: 300px;
+}
+
+
+    
+   
+
